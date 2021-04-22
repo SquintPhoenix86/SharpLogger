@@ -3,6 +3,7 @@
 ## Author's Note
 
 I maintain no project, but for one that is more frequently updated (and more stable), I recommend you use WireTap's implementation of this keylogger which can be found here: https://github.com/djhohnstein/WireTap
+Also, this is just a fork/variation from the original SharpLogger.
 
 ## Description
 
